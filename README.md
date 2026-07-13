@@ -93,6 +93,6 @@ Follow these steps to spin up a local development instance of the catalog system
 
 *Joseph Mayaka* — Full-Stack Software Engineer
 
-* *📇 LinkedIn:* [://linkedin.com](https://www.://linkedin.com/)
+* *📇 LinkedIn:* [https://linkedin.com
 * *💻 GitHub Profile:* [://github.com](https://://github.com)
 *
